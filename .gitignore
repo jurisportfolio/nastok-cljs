@@ -13,3 +13,4 @@ out
 .nrepl-*
 resources/public/
 dist
+yarn.lock
